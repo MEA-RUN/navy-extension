@@ -1,5 +1,5 @@
 
-> Open this page at [https://alwyn974.github.io/navy-extension/](https://alwyn974.github.io/navy-extension/)
+> Open this page at [https://mea-run.github.io/navy-extension/](https://mea-run.github.io/navy-extension/)
 
 ## Use as Extension
 
@@ -8,7 +8,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/alwyn974/navy-extension** and import
+* search for **https://github.com/MEA-RUN/navy-extension** and import
 
 ## Edit this project
 
@@ -16,7 +16,7 @@ To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/alwyn974/navy-extension** and click import
+* paste **https://github.com/MEA-RUN/navy-extension** and click import
 
 #### Metadata (used for search, rendering)
 
